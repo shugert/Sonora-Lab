@@ -1,5 +1,7 @@
 ## Software Installation
 
+First of all you will need to have **Anaconda** installed on your computer. **Anaconda Distribution** is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X. Full documentation on installing Anaconda and Python on ``https://www.anaconda.com/distribution/``
+
 The best way to run the course software is to use a **Docker container**. There’s full documentation on installing Docker at ``docker.com``, but in a few words, the steps are:
 
 + Go to ``docs.docker.com`` in your browser.
@@ -11,6 +13,12 @@ The best way to run the course software is to use a **Docker container**. There�
 Some good commands to try are ``docker version`` to check that you have the latest release installed, and ``docker ps`` and ``docker run hello-world`` to verify that Docker is running. 
 + By default, Docker is set to use 2 processors. You can increase processing power for the app by setting this to a higher number in ``Preferences``, or lower it to have Docker for Mac use fewer computing resources.
 + Memory - By default, Docker is set to use 2 GB runtime memory, allocated from the total available memory on your computer. You can increase the RAM on the app to get faster performance by setting this number higher (for example to 3) or lower (to 1) if you want Docker to use less memory.
+
+**For Windows Users Only**
+
+Since we're going to be using the terminal to pull the repositories, it's recommended to install Git so you can use Git Bash as your terminal. Here’s full documentation on installing Git at ``https://git-scm.com/downloads``
+
+**End of For Windows Users Only**
 
 Once Docker is installed, you can dowload the image of this course and dowload the git repository:
 
