@@ -15,12 +15,12 @@ Some good commands to try are ``docker version`` to check that you have the late
 Once Docker is installed, you can dowload the image of this course and dowload the git repository:
 
 + In a terminal, go to your course folder and run (This operation requires a good internet connection; it will take some minutes):  ``docker pull shugert/deeplearning``    
-+ MacOS & Linux: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascience/deeplearning``
-+ Windows: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascience/deeplearning``
++ MacOS & Linux: Run the ``shugert/deeplearning`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks shugert/deeplearning``
++ Windows: Run the ``shugert/deeplearning`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks shugert/deeplearning``
 + Once these steps have been done, you can check the installation by starting your web browser and introducing this  URL: ``http://localhost:8888``.
 
 Next times, you can bring your local copy of the repository up to date:
 
-+ Windows: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascience/deeplearning``.
-+ MacOS & Linux: In a terminal, go to your course folder and run the ``deeplearning`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascience/deeplearning``
++ Windows: In a terminal, go to your course folder and run the ``shugert/deeplearning`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks shugert/deeplearning``.
++ MacOS & Linux: In a terminal, go to your course folder and run the ``shugert/deeplearning`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks shugert/deeplearning``
 + Start your web browser and introduce this  URL: ``http://localhost:8888``.
