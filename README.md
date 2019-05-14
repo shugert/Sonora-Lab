@@ -1,7 +1,7 @@
 # Sonora-Lab
 Sesiones para Sonora:Lab
 
-# Regresiones Lineales
+# Resolver problemas de negocios utilizando Inteligencia Artificial 
 Objetivo: Utilizar regresiones lineales para resolver problemas de publicidad. Determinaremos cuantas ventas podemos obtener al invertir en Radio, TV o Revistas.
 
 # Nuestros eventos
@@ -17,10 +17,10 @@ Nuestra mision es empoderar a la mayor cantidad de individuos para aprender Inte
 https://www.saturdays.ai/
 
 # Samuel Noriega
-Master en Data Science por la Universitat de Barcelona
-Master en Marketing y Comercio Internacional por la UVM
-Ingeniero Industrial por la UNO
-Director de www.shugert.com.mx
-City Lead de www.saturdays.ai
-Co-Founder de www.databeers.mx
+    - Master en Data Science por la Universitat de Barcelona
+    - Master en Marketing y Comercio Internacional por la UVM
+    - Ingeniero Industrial por la UNO
+    - Director de www.shugert.com.mx
+    - City Lead de www.saturdays.ai
+    - Co-Founder de www.databeers.mx
 
