@@ -4,6 +4,9 @@ Sesiones para Sonora:Lab
 # Resolver problemas de negocios utilizando Inteligencia Artificial 
 Objetivo: Utilizar regresiones lineales para resolver problemas de publicidad. Determinaremos cuantas ventas podemos obtener al invertir en Radio, TV o Revistas.
 
+# Instalación de Software
+Ir al root de este directorio y ver el archivo Instalacion.md
+
 # Nuestros eventos
 DataBeers - https://databeers.mx/
 
